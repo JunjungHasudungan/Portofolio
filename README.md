@@ -5,9 +5,9 @@ Protofolio App Base on website and created using Laravel framework for back end 
 dedicatated to myself and inprovement in skill web development.
 
 ## feature on Portofolio App
-- **[Managing Curriculum Vitae]**
-- **[Managing Post Comments]**
-- **[Forum Q&A]**
+-  Managing Curriculum Vitae
+-  Managing Post Comments 
+-  Forum Q&A 
 
 
 ### Contributing 

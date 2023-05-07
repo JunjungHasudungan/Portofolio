@@ -8,11 +8,12 @@
         "isolatedModules": true,
         "target": "ESNext",
         "esModuleInterop": true,
+        "noImplicitAny": false,
         "forceConsistentCasingInFileNames": true,
         "noEmit": true,
         "paths": {
             "@/*": ["./resources/js/*"]
         }
     },
-    "include": ["resources/js/**/*.ts", "resources/js/**/*.tsx", "resources/js/**/*.d.ts"]
+    "include": ["resources/js/**/*.ts", "resources/js/**/*.tsx", "resources/js/**/*.d.ts", "resources/js/Pages/Post/Index.tsx"]
 }
